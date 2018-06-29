@@ -142,16 +142,20 @@ footer {
     color: #000000;
     text-decoration: none;
 }
+
 .footer_link ul li:first-child a {
-   padding-left: 20px;
+    padding-left: 20px;
 }
+
 .footer_logo {
     font-size: 20px;
     color: #626262;
 }
+
 .footer_logo ul li a {
     text-decoration: none;
 }
+
 .footer_logo ul li a i {
     padding-left: 22px;
     color: #626262;
